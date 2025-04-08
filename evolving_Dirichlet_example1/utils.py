@@ -8,3 +8,5 @@ def get_dataset():
     x_star = None
 
     return u_ref, t_star, x_star
+
+# this does not work
